@@ -1,0 +1,11 @@
+C:\Users\寺尾尉慧\source\repos\WorkReport1\WorkReport1\bin\Debug\WorkReport1.exe.config
+C:\Users\寺尾尉慧\source\repos\WorkReport1\WorkReport1\bin\Debug\WorkReport1.exe
+C:\Users\寺尾尉慧\source\repos\WorkReport1\WorkReport1\bin\Debug\WorkReport1.pdb
+C:\Users\寺尾尉慧\source\repos\WorkReport1\WorkReport1\obj\Debug\WorkReport1.csprojAssemblyReference.cache
+C:\Users\寺尾尉慧\source\repos\WorkReport1\WorkReport1\obj\Debug\WorkReport1.Form1.resources
+C:\Users\寺尾尉慧\source\repos\WorkReport1\WorkReport1\obj\Debug\WorkReport1.Properties.Resources.resources
+C:\Users\寺尾尉慧\source\repos\WorkReport1\WorkReport1\obj\Debug\WorkReport1.csproj.GenerateResource.cache
+C:\Users\寺尾尉慧\source\repos\WorkReport1\WorkReport1\obj\Debug\WorkReport1.csproj.CoreCompileInputs.cache
+C:\Users\寺尾尉慧\source\repos\WorkReport1\WorkReport1\obj\Debug\WorkReport1.exe
+C:\Users\寺尾尉慧\source\repos\WorkReport1\WorkReport1\obj\Debug\WorkReport1.pdb
+C:\Users\寺尾尉慧\source\repos\WorkReport1\WorkReport1\obj\Debug\WorkReport1.YMchanged.resources
